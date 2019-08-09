@@ -21,7 +21,7 @@ h1 {
     background-color: white;
     color: grey;
     padding: 3px;
-    margin-left: -55px;
+    margin-left: -65px;
     font-family: 'Noto Sans TC', sans-serif;
 }
 
@@ -40,6 +40,8 @@ form {
     padding: 5px;
     border-radius: 5px;
     border: 1px solid black;
+    width: 300px;
+    height: 30px;
 }
 
 .phone {
