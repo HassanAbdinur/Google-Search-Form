@@ -16,19 +16,20 @@ h1 {
 }
 
 #btn {
-    border-radius: 10px;
-    border: 1px solid black;
+    border-radius: 16px;
+    border: 1px solid white;
     background-color: white;
-    color: grey;
-    padding: 3px;
+    color: blue;
+    padding: 5px;
+    margin-bottom: 4px;
     margin-left: -65px;
     font-family: 'Noto Sans TC', sans-serif;
 }
 
 #btn:hover {
-    background-color: #3e3ef8a6;
-    color: white;
-    border: 2px solid wheat;
+    background-color: rgba(155, 173, 233, 0.897);
+    color: blue;
+    border: 1px solid rgba(155, 173, 233, 0.897);
 }
 
 form {
@@ -38,7 +39,7 @@ form {
 
 #field {
     padding: 5px;
-    border-radius: 5px;
+    border-radius: 16px;
     border: 1px solid black;
     width: 300px;
     height: 30px;
